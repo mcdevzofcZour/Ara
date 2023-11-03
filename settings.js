@@ -3,8 +3,8 @@ const fs = require('fs')
 global.creator = 'Cifumo'// yourname
 global.MONGO_DB_URI = "mongodb+srv://cifumo:susuwkuda13@cluster0.4icvrfc.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "akunface13@gmail.com" //email
-global.email_password = "susuwkuda13" //application password email
+global.your_email = "mtiosaputra62@gmail.com" //email
+global.email_password = "ay62 z62z het4 amgk s3ud nfmx lhnf urrp" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
